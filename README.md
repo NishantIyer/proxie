@@ -14,3 +14,14 @@ second - a request is made to all the api of nueral engines and others and data 
 third - the text is then converted into speech using gtts 
 we have already figured out on making the voice asssistant portable and pocket-sized so that ppl can carry it anywhere.
 the components are rasberry pi zero, a small mic and speaker and a esp 8211 wifi chip
+#Features :
+It is trained on over 75 billion nueral cells so its possiblities are limitless. Here are just a few of them -
+- Full fledged conversation with human 
+- Huge database of facts, answers and responses
+- Summarization (For eg. condensing 12th grade concepts to a 2nd grade child)
+- Grammar, GK, Science, Advanced Calculations, Note taking
+Intergration of various plugins like - 
+- APISetu : Official data of Indian Govt.
+- Condensation of Court Sessions into just a few lines : Here, the live RSS feed of tens of pages is extracted and condensed using various algorithms into just a few lines
+- News : Addition of APIs from Economic Times, Forbes, NewYork times, Reuters etc 
+- Data on various topics like Sports, Finance, Health
