@@ -1,4 +1,4 @@
-Good evening,
+Hello there,
 we've have made a voice assistant by training it on various nueral networks like GPT-3, Tensorflow, Brainshop AI and Rasa.
 the programming language used is python and the entire working principle is based on different APIs
 it is trained on over 70 billion nueral cells and parameters and its possiblities are only limited to your imagination.
