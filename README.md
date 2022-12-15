@@ -14,7 +14,8 @@ second - a request is made to all the api of nueral engines and others and data 
 third - the text is then converted into speech using gtts 
 we have already figured out on making the voice asssistant portable and pocket-sized so that ppl can carry it anywhere.
 the components are rasberry pi zero, a small mic and speaker and a esp 8211 wifi chip
-#Features :
+
+# Features :
 It is trained on over 75 billion nueral cells so its possiblities are limitless. Here are just a few of them -
 - Full fledged conversation with human 
 - Huge database of facts, answers and responses
