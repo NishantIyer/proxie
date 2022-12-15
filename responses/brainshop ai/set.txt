@@ -1,0 +1,3 @@
+3/11
+
+http://api.brainshop.ai/set?bid=[bid]&key=[key]&uid=[uid]&in=[input_msg]&out=[output_msg]
