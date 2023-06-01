@@ -26,3 +26,13 @@ Intergration of various plugins like -
 - Condensation of Court Sessions into just a few lines : Here, the live RSS feed of tens of pages is extracted and condensed using various algorithms into just a few lines
 - News : Addition of APIs from Economic Times, Forbes, NewYork times, Reuters etc 
 - Data on various topics like Sports, Finance, Health
+
+# Usage : 
+- Make sure you have python 3 as your global environment.
+- git clone https://github.com/NishantIyer/proxie.git
+- pip install requirements.txt
+- python proxie.py
+
+Hope you find this useful.
+Regards,
+Nishant
