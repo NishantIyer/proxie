@@ -33,6 +33,6 @@ Intergration of various plugins like -
 - pip install requirements.txt
 - python proxie.py
 
-Hope you find this useful.
+Hope you find this useful. There are two pdf's attached to this repository, the technical documentation and the brochure for CBSE Science Fair 2023.
 Regards,
 Nishant
